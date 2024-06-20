@@ -1,2 +1,3 @@
 homeassistant/home-assistant:2024.6.3
-liwangsheng/idle-game:latest
+liwangsheng/idle-game:1.3.3
+imhui77/vue-idle-game:latest

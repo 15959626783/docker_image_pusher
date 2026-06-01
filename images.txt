@@ -1,3 +1,3 @@
 homeassistant/home-assistant:2026.5.0
 nodered/node-red:4.1.10
-qianye60/xiantu:latest
+firfe/ogame:1.6.5

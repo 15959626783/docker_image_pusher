@@ -1,3 +1,4 @@
 homeassistant/home-assistant:2026.5.0
 nodered/node-red:4.1.10
 firfe/ogame:1.6.5
+sigoden/dufs:v0.46.0

@@ -1,3 +1,3 @@
 homeassistant/home-assistant:2026.7.1
-nodered/node-red:5.0.0
-
+nodered/node-red:5.0.1
+heizicao/drysland:latest

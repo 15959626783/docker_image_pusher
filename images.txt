@@ -1,4 +1,3 @@
 homeassistant/home-assistant:2026.8.1
 nodered/node-red:5.0.4
-ich777/mindustry-server:latest
-library/eclipse-mosquitto:2.0.22
+hacn/hacn:2026.8-addons

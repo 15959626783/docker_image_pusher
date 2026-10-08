@@ -1,4 +1,4 @@
 homeassistant/home-assistant:2026.8.1
 nodered/node-red:5.0.7
 hacn/hacn:stable
-hacn/hacn:dev-20260929
+hacn/hacn:dev-20260915
